@@ -57,7 +57,7 @@ Follow these steps to run the application locally.
 
 ```bash
 # Clone this repository
-git clone https://github.com/PrathameshBamb/Product-Management.git
+git clone https://github.com/ganeshrupanwar/Product-Management.git
 
 # Install dependencies
 npm install
